@@ -1,0 +1,10 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "bracket-pair-colorizer-2.colors": [
+    
+        "Gold",
+        "Orchid",
+        "LightSkyBlue"
+    ]
+}
