@@ -36,7 +36,7 @@ export class AccountService {
           this.currentUserSource.next(user);
         }
         return user;
-      })
+      }) 
     )
   }
 
